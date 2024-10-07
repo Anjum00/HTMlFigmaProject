@@ -129,6 +129,7 @@ li.menu-list a {
 
 .home-input input[type="text"]:focus {
     border: none;
+    outline: none;
 }
 
 .header-search {
